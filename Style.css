@@ -289,7 +289,7 @@
     position: absolute;
     font-size: 0.7em;
     transition: .4s ease-in-out;
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-weight: bold;
     letter-spacing: 0.33em;
